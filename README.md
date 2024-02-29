@@ -1,7 +1,6 @@
 <h3 align="center">I AM FULL STACK DEVELOPER</h3>
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritamart&show_icons=true&locale=en" alt="pritamart" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritamart&" alt="pritamart" /></p>
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritamart&show_icons=true&locale=en&layout=compact" alt="pritamart" /></p>
 
 
@@ -39,5 +38,6 @@
 <a href="https://fb.com/https://www.facebook.com/pritamsamuiart/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pritamsamuiart/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/pritamsamui81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pritamsamui81" height="30" width="40" /></a>
 </h3>
-
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritamart&show_icons=true&locale=en" alt="pritamart" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritamart&" alt="pritamart" /></p>
 
