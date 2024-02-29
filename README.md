@@ -1,5 +1,23 @@
-<h1 align="center">Hi 👋, I'm Pritam Samui</h1>
 <h3 align="center">I AM FULL STACK DEVELOPER</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritamart&show_icons=true&locale=en&layout=compact" alt="pritamart" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritamart&show_icons=true&locale=en" alt="pritamart" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritamart&" alt="pritamart" /></p>
+
+
+#### Languages
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamart&label=Profile%20views&color=0e75b6&style=flat" alt="pritamart" /> </p>
 
@@ -34,8 +52,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Pritam Samui"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Pritam Samui" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritamart&show_icons=true&locale=en&layout=compact" alt="pritamart" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritamart&show_icons=true&locale=en" alt="pritamart" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritamart&" alt="pritamart" /></p>
