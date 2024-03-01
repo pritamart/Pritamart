@@ -1,4 +1,4 @@
-<h3 align="center">HI AM FULL STACK DEVELOPER</h3>
+<h3 align="center">HI I AM FULL STACK DEVELOPER</h3>
 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritamart&show_icons=true&locale=en&layout=compact" alt="pritamart" /></p>
