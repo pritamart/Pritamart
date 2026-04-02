@@ -30,7 +30,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pritamart.github.io/Portfolio/](https://pritamart.github.io/Portfolio/)
 
-- 💬 Ask me about **react , SQL , C#**
+- 💬 Ask me about **JAVA, Spring Boot, react , SQL , C#**
 
 - 📫 How to reach me **pritamsamui81@gmail.com**
 
